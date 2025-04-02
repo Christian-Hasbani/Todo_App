@@ -1,7 +1,5 @@
 # TaskMaster - iOS Todo Application
 
-<img src="/api/placeholder/150/150" alt="TaskMaster App Icon" />
-
 ## Overview
 
 TaskMaster is a sleek, intuitive to-do list application built with Swift for iOS devices. It helps users organize their daily tasks with a clean, minimalist interface while providing powerful task management features.
@@ -17,14 +15,6 @@ TaskMaster is a sleek, intuitive to-do list application built with Swift for iOS
 - **iCloud Sync**: Seamlessly sync tasks across all your Apple devices
 - **Widgets**: Access your most important tasks directly from your home screen
 - **Customizable Views**: Sort and filter tasks based on various parameters
-
-## Screenshots
-
-<div style="display: flex; justify-content: space-between;">
-  <img src="/api/placeholder/160/300" alt="Task List View" />
-  <img src="/api/placeholder/160/300" alt="New Task Creation" />
-  <img src="/api/placeholder/160/300" alt="Task Details" />
-</div>
 
 ## Technologies Used
 
@@ -72,18 +62,5 @@ open TaskMaster.xcodeproj
 - Apple Watch companion app
 - Shortcuts integration
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to reach out:
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
 
 *Built with ❤️ using Swift*# Mobile Programming Project
